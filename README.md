@@ -7,4 +7,5 @@
 ![Screenshots] (scr2.jpg)
 
 # Actual App
-![Screenshots] (SCR3.png)
+![Screenshots] (SCR3.jpg)
+
